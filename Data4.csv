@@ -6,7 +6,7 @@ NatWest Group,4.6,Data Scientist,2.0,47500.0,"Software deployment, Data analysis
 iwoca,3.9,Data Scientist - Ops,7.0,75000.0,"MATLAB, R, Maths, C, Machine learning",Employer est.,Onsite,London,England
 Spotify,3.8,"Data Scientist, Programming & Editorial",41.0,124000.0,"Data analysis skills, Tableau, SQL, Data science, Python",Employer est.,Onsite,London,England
 LSEG (London Stock Exchange Group),4.1,Data Scientist,20.0,80000.0,"Jira, MATLAB, Power BI, Operating systems, R",Glasdoor est.,Onsite,London,England
-CRED,4.1,Data Scientist,26.0,36000.0,"Power BI, Data mining, R, Data analysis skills, Tableau",Employer est.,Remote,,
+CRED,4.1,Data Scientist,26.0,"Power BI, Data mining, R, Data analysis skills, Tableau",Employer est.,Remote,,
 MLN Security,3.2,Junior Data Scientist,33.0,59500.0,"TensorFlow, SAS, Big data, Java, AWS",Glasdoor est.,Onsite,London,England
 PlayStation Global,4.0,Data Scientist,11.0,34000.0,"Tableau, SQL, Data management, Data science, Communication skills",Employer est.,Onsite,London,England
 SAVA,4.1,Data Scientist I/II,5.0,47500.0,"Power BI, Signal processing, Git, SQL, Statistical analysis",Glasdoor est.,Onsite,London,England
@@ -93,7 +93,7 @@ VIOOH,4.0,Data Scientist (DSM),44.0,72000.0,"Jira, TensorFlow, Software deployme
 University of Hertfordshire,3.5,Natural Language Processing (NLP) Data Scientist (KTP Associate),14.0,49500.0,"TensorFlow, Git, AWS, Machine learning, Deep learning",Glasdoor est.,Onsite,Welwyn Hatfield,England
 Evonetix Ltd,3.6,Software Engineer – Data Scientist / Bioinformatics,21.0,40500.0,"TensorFlow, R, Machine learning, Natural language processing, Conversion optimisation",Glasdoor est.,Onsite,Cambridge,England
 MPB,3.6,Data Scientist,36.0,108500.0,"Machine learning, Natural language processing, IT, Data science, Data visualisation",Glasdoor est.,Onsite,Brighton,England
-Machine Medicine Technologies,3.9,Data Scientist,32.0,66000.0,"Jira, Bamboo, Kubernetes, Docker, Machine learning",Glasdoor est.,Onsite,London,England
+Machine Medicine Technologies,Data Scientist,32.0,66000.0,"Jira, Bamboo, Kubernetes, Docker, Machine learning",Glasdoor est.,Onsite,London,England
 PHASTAR,3.1,Senior Data Scientist,18.0,37500.0,"TensorFlow, Tableau, SQL, Machine learning, Deep learning",Glasdoor est.,Remote,,
 HMGCC (His Majesty’s Government Communications Centre),3.3,Data Scientist,14.0,83000.0,"SQL, Product management, B2B, AI, Communication skills",Glasdoor est.,Onsite,Hanslope,England
 LogicMonitor,3.5,Data Scientist,25.0,37500.0,"Google Cloud Platform, C++, C, Machine learning, Deep learning",Glasdoor est.,Onsite,London,England
@@ -257,7 +257,7 @@ VML,4.0,Lead AI & Data Scientist,24.0,47500.0,"Cloud infrastructure, Git, Englis
 Crosslake Technologies,3.4,Lead AI & Data Scientist,21.0,67500.0,"TensorFlow, Data mining, Data structures, Java, C++",Glasdoor est.,Onsite,Manchester,England
 AXA UK,4.1,Data Science & AI Manager,30.0,40000.0,"Data mining, Data structures, Java, AWS, C++",Employer est.,Onsite,Glasgow,Scotland
 Reqiva ltd,3.2,Machine Learning Consultant,21.0,66500.0,"OOP, Machine learning, Communication skills, Python",Glasdoor est.,Onsite,Cambridge,England
-InstaDeep,3.6,"Applied Research Scientist, Molecular Simulation",32.0,78000.0,"Business development, Data science",Glasdoor est.,Onsite,London,England
+InstaDeep,3.6,32.0,78000.0,"Business development, Data science",Glasdoor est.,Onsite,London,England
 Amazon Development Centre (Scotland) Limited,3.6,"Applied Scientist , ADSP: Campaign & Creative",12.0,79000.0,"Analysis skills, Machine learning, Google Search Console, Communication skills, Python",Glasdoor est.,Onsite,London,England
 Amazon Development Centre (London) Limited,2.9,"Applied Scientist, Personalization",19.0,55500.0,"Kubernetes, Spark, AWS, Docker, Machine learning",Glasdoor est.,Onsite,Edinburgh,Scotland
 G-Research,3.8,Machine Learning Engineer,39.0,46000.0,"Analysis skills, Project management, Data management, Product management, Scrum",Glasdoor est.,Onsite,London,England
@@ -312,7 +312,7 @@ Bumble Inc.,3.6,"Software Engineer, Machine Learning",42.0,52500.0,"Azure, SQL, 
 BAE Systems,5.0,Data Science Architect,34.0,110000.0,"Performance tuning, Analysis skills, Maths, Machine learning, Distributed systems",Glasdoor est.,Onsite,Preston,England
 InstaDeep,3.6,"Research Scientist, Machine Learning and Computational Biology",41.0,44500.0,"Product development, Machine learning, Natural language processing, Agile",Employer est.,Onsite,London,England
 Deloitte,4.2,"Consultant - Senior Consultant, Data Science and Machine Learning, AI & Data, Defence & Security",25.0,94000.0,"Data modelling, Azure, Big data, Spark, Google Cloud Platform",Glasdoor est.,Onsite,Bristol,England
-PEI Group,4.9,Principal Data Scientist,40.0,85000.0,"TensorFlow, MATLAB, Microsoft Excel, Visual Studio, Spark",Employer est.,Onsite,London,England
+PEI Group,4.9,40.0,85000.0,"TensorFlow, MATLAB, Microsoft Excel, Visual Studio, Spark",Employer est.,Onsite,London,England
 JPMorgan Chase & Co,3.8,Machine Learning Scientist - Time Series Reinforcement Learning - Vice President - Machine Learning Center of Excellence,30.0,51500.0,"Mandarin, Rust, C++, Distributed systems, Python",Glasdoor est.,Onsite,,
 Linktree,4.2,"ML Engineer, Data & Machine Learning",38.0,65500.0,"TensorFlow, Git, Docker, Machine learning, Communication skills",Glasdoor est.,Onsite,London,England
 ITV Jobs,3.9,Head of Data and Machine Learning Engineering,10.0,88000.0,"Data mining, Data structures, Java, C++, Machine learning",Glasdoor est.,Onsite,London,England
@@ -449,7 +449,7 @@ JPMorgan Chase & Co,3.0,Applied AI/ML Senior Associate - HR Data & Analytics,32.
 Kaluza,4.0,Machine Learning Engineer - Flex,34.0,33000.0,"SAS, R, English, Statistical analysis, Machine learning",Glasdoor est.,Onsite,London,England
 University of Warwick,4.0,Lead Engineer (Senior Supply Chain Data Scientist),18.0,57000.0,"Rust, Go, Data structures, Logistics, Machine learning",Employer est.,Onsite,Coventry,England
 Mint Selection,3.5,"Machine Learning Engineer: LLM, NLP, GenAI",13.0,79500.0,"Git, English, Google Cloud Platform, SQL, AWS",Glasdoor est.,Onsite,London,England
-Hyperscience,4.1,Machine Learning Engineering Manager,41.0,66500.0,"Business development, AWS, Product management, Deep learning, Data science",Glasdoor est.,Remote,,
+4.1,Machine Learning Engineering Manager,41.0,66500.0,"Business development, AWS, Product management, Deep learning, Data science",Glasdoor est.,Remote,,
 "NHS Shropshire, Telford and Wrekin Integrated Care Board",3.9,Senior Strategic Analytics Lead,33.0,71000.0,"Sales, Business analysis, Change management, Machine learning, Data management",Glasdoor est.,Onsite,Somerset,England
 GSK,4.2,"Principal Statistician, Research Statistics",16.0,56000.0,"TensorFlow, Azure, Software deployment, Git, Google Cloud Platform",Glasdoor est.,Onsite,Stevenage,England
 Deliveroo,3.9,Machine Learning Engineer - Operational Research,44.0,42000.0,"Git, SQL, AWS, Docker, Machine learning",Glasdoor est.,Onsite,London,England
@@ -633,4 +633,4 @@ Qureight Ltd,3.4,Senior Machine Learning Scientist/Engineer,13.0,52500.0,"Oracle
 Causaly,3.5,Machine Learning Engineer,35.0,90000.0,"Data science, Account management, Communication skills",Glasdoor est.,Onsite,London,England
 GSK,3.8,Senior AI/ML Engineer - Computer Vision,30.0,41000.0,"TensorFlow, Cloud infrastructure, Software deployment, C#, SQL",Glasdoor est.,Onsite,London,England
 InstaDeep,3.7,"Applied Research Scientist, Explainable Deep Learning in BioAI",35.0,49920.0,"TensorFlow, Software deployment, NoSQL, English, MongoDB",Employer est.,Onsite,London,England
-"Cyclotron, Inc.",4.1,Azure AI Solutions Architect,32.0,73500.0,"Machine learning, Natural language processing, Data science, Python",Glasdoor est.,Onsite,London,England
+"Cyclotron, Inc.",4.1,Azure AI Solutions Architect,32.0,73500.0,"Machine learning, Natural language processing, Python",Glasdoor est.,Onsite,London,England
